@@ -41,5 +41,5 @@ extract it into a shared helper method.
 
 **Before you submit!** Save and run your code to verify that it works as you
 expect. If you have any methods that are not working yet, feel free to leave
-comments describing your progress.
+comments describing your progress..
 
